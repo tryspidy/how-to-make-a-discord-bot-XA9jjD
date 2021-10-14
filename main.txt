@@ -1,0 +1,1 @@
+mkdir musicbot && cd musicbot 
